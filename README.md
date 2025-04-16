@@ -1,4 +1,4 @@
-# Deep Learning Projects
+# Deep Learning 
 
 This repository contains a collection of Jupyter notebooks demonstrating various applications of deep learning using Keras and PyTorch. The projects cover areas such as Natural Language Processing (NLP), Computer Vision (CV), and Time Series Modeling.
 
