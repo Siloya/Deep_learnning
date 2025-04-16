@@ -1,6 +1,6 @@
 # Deep Learning 
 
-This repository contains a collection of  notebooks demonstrating various applications of deep learning using Keras and PyTorch. The projects cover areas such as Natural Language Processing (NLP), Computer Vision (CV), and Time Series Modeling.
+This repository contains a collection of  notebooks demonstrating various applications of deep learning using Keras and PyTorch. This notebooks cover areas such as Natural Language Processing (NLP), Computer Vision (CV), and Time Series Modeling.
 
 ##  Notebook Contents
 
